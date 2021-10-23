@@ -1,0 +1,14 @@
+@import url(/assets/css/_contact.css);
+@import url(/assets/css/_menu.css);
+@font-face {
+    font-family: Vazir-Medium;
+    src: url(../fonts/Vazir-Medium.eot) format("eot"),
+      url(../fonts/Vazir-Medium.woff) format("woff"),
+      url(../fonts/Vazir-Medium.woff2) format("woff2");
+    
+  }
+  *,
+  body {
+ 
+    font-family: Vazir-Medium;
+  }
