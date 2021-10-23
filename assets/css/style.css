@@ -12,3 +12,6 @@
  
     font-family: Vazir-Medium;
   }
+  div.carousel-inner img{
+    height: 92vh;
+  }
