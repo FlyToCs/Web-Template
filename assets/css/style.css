@@ -12,6 +12,34 @@
  
     font-family: Vazir-Medium;
   }
-  div.carousel-inner img{
-    height: 92vh;
+
+
+ .main-nav{
+    background-color: #232f3e;
   }
+
+.line-nav div{
+font-size: 13px;
+  }
+
+  a.navbar-brand img.logo {
+width: 25px;
+height: inherit;
+  }
+  .position-unset{
+      position: unset !important;
+  }
+ 
+  @media screen and (max-width:575px){
+    .d-xsm-none{
+        display: none !important;
+    }
+  }
+
+  .dropdown-menu img {
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+  }
+  
